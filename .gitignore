@@ -1,2 +1,9 @@
 .env
 .config
+message_info.json
+message_info_test.json
+*token.json
+*credentials.json
+sh_scripts
+*__pycache__*
+.vscode
